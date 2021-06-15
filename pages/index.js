@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
-      <p></p>
+      <p>Dette er en endring</p>
     </div>
   )
 }
